@@ -1,4 +1,4 @@
-package com.acfun.collection;
+package com.acfun.util;
 
 import java.io.Serializable;
 import java.util.*;
